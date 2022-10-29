@@ -1,0 +1,4 @@
+# 120-Years-Olympics-Dataset-Exploratory-Analysis
+Using numerous data analysis and visualisation techniques, we analyze our dataset and come up with inferences.
+## 💪🏻 Motivation Behind Choosing This Topic
+I have always loved sports and it has been my forte all throughout my childhood. Back when in was school I went on to represent my school in the many inter-school, district and other sports meets. Presently as I am making my transition from mechanical engineering to data science under the guidance of the Jovian team. When I was given this opportunity to choose my own dataset for the EDA Project. Well, guess what I did not think twice before choosing the "Olympics Dataset". With this project I intend to analyse the patterns and gather insights amongst the numerous features and attributes in our dataset.
